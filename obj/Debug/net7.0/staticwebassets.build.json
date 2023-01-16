@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "xcFSvMbdU5Vocjnq85Fx5yN5mShp2d21ThRM0Atgt5k=",
+  "Source": "PROJETO-WEB-LH",
+  "BasePath": "_content/PROJETO-WEB-LH",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PROJETO-WEB-LH\\wwwroot",
+      "Source": "PROJETO-WEB-LH",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\RUAN\\CURSOS\\SENAI\\CODIFICAÇÃO BACK-END\\Códigos\\PROJETO-WEB-LH\\wwwroot\\",
+      "BasePath": "_content/PROJETO-WEB-LH",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\RUAN\\CURSOS\\SENAI\\CODIFICAÇÃO BACK-END\\Códigos\\PROJETO-WEB-LH\\wwwroot\\index.html",
+      "SourceId": "PROJETO-WEB-LH",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\RUAN\\CURSOS\\SENAI\\CODIFICAÇÃO BACK-END\\Códigos\\PROJETO-WEB-LH\\wwwroot\\",
+      "BasePath": "_content/PROJETO-WEB-LH",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

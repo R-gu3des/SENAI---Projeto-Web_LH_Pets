@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\RUAN\\CURSOS\\SENAI\\CODIFICAÇÃO BACK-END\\Códigos\\PROJETO-WEB-LH\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PROJETO-WEB-LH.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PROJETO-WEB-LH.props",
+      "PackagePath": "build\\PROJETO-WEB-LH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PROJETO-WEB-LH.props",
+      "PackagePath": "buildMultiTargeting\\PROJETO-WEB-LH.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PROJETO-WEB-LH.props",
+      "PackagePath": "buildTransitive\\PROJETO-WEB-LH.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
